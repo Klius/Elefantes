@@ -11,5 +11,5 @@ switch(numeroDeElefantes){
 }
 
   numeroDeElefantes += 1;
-  setTimeout(elefantes,5000);
+  setTimeout(elefantes,10000);
 }
