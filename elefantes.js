@@ -1,5 +1,5 @@
 numeroDeElefantes = 1;
-elefantes()
+window.onload= elefantes;
 function elefantes(){
 switch(numeroDeElefantes){
 	case 1:
