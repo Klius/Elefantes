@@ -11,5 +11,6 @@ switch(numeroDeElefantes){
 }
 
   numeroDeElefantes += 1;
+  document.getElementById('elefantes').innerHTML += '<img src="Elefantue.gif"/>';
   setTimeout(elefantes,10000);
 }
